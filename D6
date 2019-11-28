@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div id= "die1" class = "dice" ></div>
+<div id = "Roll Button">
+  <button onclick = "rollDice()">Roll Dice</button>
+<h2 id= "status" sytle="clear:left;"
+</div>
+  
